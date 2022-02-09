@@ -28,8 +28,9 @@ justify-content: center;
 }
 .box-ber { 
   position: absolute;
-  top: 0;
-  left: 0;
+  top: 0 ;
+  left: 0 ;
+  padding: 2px;
   background-color: #FF9A4B;
   color: #fff;
 }
@@ -85,7 +86,7 @@ h3 {
   width: 100%;
 }
 main {
-  width: 100%;
+  width: 90%;
   display: block;
 }
 
