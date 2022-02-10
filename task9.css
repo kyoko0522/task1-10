@@ -86,7 +86,7 @@ h3 {
   width: 100%;
 }
 main {
-  width: 90%;
+  width: 100%;
   display: block;
 }
 
@@ -98,15 +98,17 @@ main {
 
 .main-box2 {
   width: 90%;
+  margin: 0 auto;
 }
 
 .main-box3 {
   width: 90%;
+  margin: 20px auto;
 
 }
 
 footer {
-  width: 90%;
+  width: 100%;
 
 }
   
